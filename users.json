@@ -1,0 +1,26 @@
+{
+   "user1" : {
+      "name" : "tagor",
+          "password" : "password",
+          "role" : "admin",
+          "id": 1
+   },
+   "user2" : {
+      "name" : "raja",
+          "password" : "password",
+          "role" : "member",
+          "id": 2
+   },
+   "user3" : {
+      "name" : "krishna",
+          "password" : "password",
+          "role" : "member",
+          "id": 3
+   },
+   "user4" : {
+      "name" : "chitanya",
+          "password" : "password",
+          "role" : "user",
+          "id": 4
+   }
+}
